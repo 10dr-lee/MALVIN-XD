@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~ckoSkKgI#cFELDymynJffkCkIWjXtk2O6Gz6WM-osWWywfmk8Z20",
 // add your Session Id 
 
 PREFIX: process.env.PREFIX || ".",
@@ -29,10 +29,10 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "✦ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀✦",
+OWNER_NAME: process.env.OWNER_NAME || "𝔸ℕ𝕆ℕ𝕐𝕄𝕆𝕌𝕊",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ*",
+DESCRIPTION: process.env.DESCRIPTION || "𝔸ℕ𝕆ℕ𝕐𝕄𝕆𝕌𝕊",
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
@@ -65,7 +65,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ v2🚀🔥*",
 // set the auto reply massage on status reply    
 
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 
 ANTI_LINK: process.env.ANTI_LINK || "true",
