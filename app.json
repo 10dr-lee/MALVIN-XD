@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~ckoSkKgI#cFELDymynJffkCkIWjXtk2O6Gz6WM-osWWywfmk8Z20",
       "required": true,
       "value": ""
     },  
@@ -40,7 +40,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },  
     
@@ -54,7 +54,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -102,7 +102,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "𝔸ℕ𝕆ℕ𝕐𝕄𝕆𝕌𝕊"
       
      }, 
 
@@ -154,7 +154,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
       "FAKE_TYPING": {
       "description": "Make it true for fake typing.",
